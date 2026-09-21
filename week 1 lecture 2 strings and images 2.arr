@@ -50,5 +50,4 @@ rectangle(80, 40 ,"solid", "green")
 triangle(50, "outline","red")
 
 overlay(circle(30, "solid","Blue"),
-  rectangle(80,60, "solid", "yellow"))1
-# above 
+  rectangle(80,60, "solid", "yellow"))
