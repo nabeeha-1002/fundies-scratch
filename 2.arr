@@ -1,3 +1,7 @@
+use context starter2024
+
+
+
 --------- Question 1: T-shirt shop -----------
 #calculate cost of a custom T-shirt for £12, there are 5 identical shirts and each design is a £3 set up fee per design 
 #define an expression for 7 identical T-shirt and compare the results 
